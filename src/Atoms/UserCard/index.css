@@ -1,12 +1,13 @@
 .image{
-    width: 200px;
+    width: 150px;
+    object-fit: cover;
 }
 .Cards{
 width: 400px;
 height: auto;
-padding: 50px;
+padding: 60px;
 }
 .fullName{
-    margin-left: 50px
+    margin-left: 0px
 }
 
