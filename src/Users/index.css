@@ -1,7 +1,7 @@
 body{
     max-width: 100%;
     overflow-x: hidden;
-    margin-left: 135px;
+    /* margin-left: 135px; */
 }
 .cards{
     display: grid;
@@ -9,10 +9,5 @@ body{
     grid-gap: 25px;
 
 }
-button{
-    margin-left:350px ;
-    width: 900px;
-    margin-top: 5px;
 
-}
 

@@ -1,7 +1,10 @@
 form{
-width: 60%; 
+width: 70%; 
 border: solid 1px;
+border-radius: 10px;
 padding: 10px;
+margin-top: 200px;
+margin-left: 200px;
 
 }
 input{
@@ -11,13 +14,29 @@ border: solid 1px rgb(81, 86, 81);
 border-radius: 5px;
 margin: 2% 0;
 }
-button{
+.submit-btn{
     border: none;
     border-radius: 5px;
     background-color: black;
     color: beige;
     cursor: pointer;
-    width: 97%;
+    width: 96%;
     height: 40px;
+    padding: 12px 5px;
+    margin: 2% 0;
+
+
+}
+h2{
+    text-align: center;
+}
+
+button{
+    margin-left:680px ;
+    width: 500px;
+    height: 60px;
+    margin-top:150px;
+    font-weight: bold;
+    font-size: 20px;
 
 }

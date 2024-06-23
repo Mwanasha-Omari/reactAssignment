@@ -19,7 +19,7 @@ const handleSubmit=async(event)=>{
             <br/>
             <input placeholder="Enter password" type="password" onChange={(event)=>setPassword(event.target.value)}/>
             <br/>
-            <button type="submit">Login</button>
+            <button type="submit" className='submit-btn'>Login</button>
         </form>
     )
 }
